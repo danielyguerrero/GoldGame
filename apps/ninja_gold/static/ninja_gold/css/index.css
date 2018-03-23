@@ -1,0 +1,19 @@
+body {
+	background-color: #cbcbcb;
+	text-align: center;
+}
+h1{
+	margin: 0px;
+}
+
+form {
+	height: 200px;
+	width: 200px;
+	display: inline-block;
+	vertical-align: top;
+}
+
+.scrollabletextbox {
+	height: 400px;
+	width: 750px;
+}
